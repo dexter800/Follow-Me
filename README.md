@@ -1,1 +1,1 @@
-# Follow-Me
+The Follow Me project goal is to create a Fully Convolutional Network (FCN for short) in Tensorflow to teach the drone recognizing and then following a specific person through a simulated environment. The learning was computed using AWS with the support of Udacity.
